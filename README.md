@@ -1,10 +1,10 @@
-# Equipo 7
+# BRAVO :rage:
 Hack-Group 2 :rocket: :rocket:
 - Hacks Pull Request
 - Close Pull Request
 - Code Review
 
-## BRAVO :rage:
+## Equipo 7 :wave:
 
 ALIAS   | INTEGRANTES     | PAÍS       | 
 ------- | --------------- | ---------- | 
@@ -13,3 +13,5 @@ Bravo   | Sebastián Navas | Venezuela  |
 Charlie | Yamileth Mujica | Venezuela  | 
 Delta   | Gabriela Puerta | Venezuela  | 
 Echo    | Carlos Almao    | Venezuela  |
+
+> Los excluídos
